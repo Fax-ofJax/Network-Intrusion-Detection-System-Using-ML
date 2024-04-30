@@ -13,7 +13,4 @@ on accuracy and computational time. Derived results show that Decision Tree
 outperforms the best on measures like Accuracy and Computational Time.
 
 # ALGORITHMS USED
-Gaussian Naive Bayes, Decision Tree, Random Forest, SVM, Logistic Regression,Gradient Boosting, ANN
-
-# ARTICLE
-https://www.geeksforgeeks.org/intrusion-detection-system-using-machine-learning-algorithms/
+Gaussian Naive Bayes, Decision Tree, Random Forest, SVM, Logistic Regression,Gradient Boosting, 
